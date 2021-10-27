@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<subtypes>
+  <class ID="Castes" Load="merge">
+
+      <subtype Name="Artifex" Code="e" Gear="StartingGear_Artifex" Tile="creatures/caste_5.bmp" DetailColor="c">
+        <stat Name="Intelligence" Bonus="3" />
+        <stat Name="ColdResistance" Bonus="15" />
+        <skills>
+          <skill Name="Tinkering" />
+          <skill Name="Tinkering_Repair" />
+          <skill Name="Tinkering_Disassemble" />
+          <skill Name="Tinkering_DeployTurret" />
+          <skill Name="Tinkering_Tinker1" />
+          <skill Name="Tinkering_Tinker2" />
+        </skills>
+      </subtype>
+
+  </class>
+</subtypes>
