@@ -2,7 +2,7 @@
 <subtypes>
   <class ID="Castes" Load="merge">
 
-      <subtype Name="Artifex" Code="e" Gear="StartingGear_Artifex" Tile="creatures/caste_5.bmp" DetailColor="c">
+      <subtype Name="Bio Mech" Code="e" Gear="StartingGear_Artifex" Tile="creatures/bioMech.png" DetailColor="c">
         <stat Name="Intelligence" Bonus="3" />
         <stat Name="ColdResistance" Bonus="15" />
         <skills>
