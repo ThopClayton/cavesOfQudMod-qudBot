@@ -13,8 +13,8 @@
       <object Blueprint="Basic Toolkit" Number="1" />
       <object Blueprint="Small Sphere of Negative Weight" Number="30" />
 
-      <object Blueprint="SalveTonic" Number="1d3" />
-      <table Name="#Injectors" Number="1d3" />
+      <object Blueprint="SalveTonic" Number="4" />
+      <!--<table Name="#Injectors" Number="1d3" />-->
       <table Name="#Cells" Number="2d2" />
     </group>
   </population>
